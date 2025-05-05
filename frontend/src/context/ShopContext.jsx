@@ -70,7 +70,7 @@ const ShopContextProvider = (props) => {
             }
           );
           if(res.data.success === true){
-            toast.success(res.data.message+" bal");
+            toast.success(res.data.message);
           }
       } catch (error) {
         console.log(error);

@@ -39,14 +39,14 @@ function Footer() {
         <p className="text-xl font-medium mb-5">Get In Touch</p>
         <ul className="flex flex-col gap-1 text-gray-600">
           <li>Tel:(415) 555-0123</li>
-          <li>Email:admin@forever.com</li>
+          <li>Email:admin@TimeLessThereads.com</li>
         </ul>
       </div>
 
       <div>
         <hr />
         <p className="py-5 text-sm text-center">
-          Copyright 2024@ forever.com - All Right Reserved.
+          Copyright 2024@TimeLessThereads.com - All Right Reserved.
         </p>
       </div>
     </div>

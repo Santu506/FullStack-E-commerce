@@ -5,7 +5,7 @@ import './Navbar.css'
 function Navbar({setToken}) {
   return (
     <div className='navbar'>
-        <img className='logo' src={assets.logo} alt="" />
+        <img className='logo' src={assets.logo2} alt="" />
         <button onClick={()=>setToken('')}>Logout</button>
     </div>
   )

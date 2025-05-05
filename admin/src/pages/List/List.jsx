@@ -71,7 +71,7 @@ function List({ url, token }) {
             <p>{item.name}</p>
             <p>{item.category}</p>
             <p>{item.subCategory}</p>
-            <p>${item.price}</p>
+            <p>₹{item.price}</p>
             {/* Display sizes with quantities */}
             <p>
               {item.sizes.map((sizeObj) => (
